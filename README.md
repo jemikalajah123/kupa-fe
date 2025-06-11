@@ -47,13 +47,7 @@ A modern, scalable Next.js application demonstrating server-side data fetching w
 
 ### Installation
 
-1. **Clone or download the project**
-   \`\`\`bash
-   # If using the v0 download feature
-   # Extract the downloaded files to your desired directory
-   \`\`\`
-
-2. **Install dependencies**
+1. **Install dependencies**
    \`\`\`bash
    npm install
    # or
@@ -62,7 +56,7 @@ A modern, scalable Next.js application demonstrating server-side data fetching w
    pnpm install
    \`\`\`
 
-3. **Run the development server**
+2. **Run the development server**
    \`\`\`bash
    npm run dev
    # or
@@ -71,7 +65,7 @@ A modern, scalable Next.js application demonstrating server-side data fetching w
    pnpm dev
    \`\`\`
 
-4. **Open your browser**
+3. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000) to see the application.
 
 ## 📁 Project Structure
